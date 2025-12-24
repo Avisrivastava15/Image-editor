@@ -2,7 +2,7 @@
 
 A web-based image editor built with HTML, CSS, and JavaScript that allows users to upload images, apply various filters, and download the edited images. The editor provides a smooth and interactive user experience with live updates while editing.
 
-Features
+**Features**
 
 Upload Image: Users can select an image from their device.
 
@@ -52,7 +52,8 @@ Remix Icons (for placeholder icons)
 ├── style.css           # CSS for layout and styling
 ├── theme.css           # Color and theme variables
 ├── script.js           # JavaScript logic for filters, presets, and image handling
-└── README.md           # Project documentation ```
+└── README.md           # Project documentation
+```
 
 **Customization**
 
