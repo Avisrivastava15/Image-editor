@@ -45,14 +45,14 @@ HTML Canvas API
 
 Remix Icons (for placeholder icons)
 
-Project Structure
-/image-editor
+**Project Structure**
+```/image-editor
 │
 ├── index.html          # Main HTML file
 ├── style.css           # CSS for layout and styling
 ├── theme.css           # Color and theme variables
 ├── script.js           # JavaScript logic for filters, presets, and image handling
-└── README.md           # Project documentation
+└── README.md           # Project documentation ```
 
 **Customization**
 
@@ -76,4 +76,4 @@ Export in different formats (JPEG, WebP).
 
 Author
 
-Your Name – GitHub Profile
+Your Name – [GitHub Profile](https://github.com/Avisrivastava15)
