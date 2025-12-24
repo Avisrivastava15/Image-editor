@@ -63,7 +63,7 @@ Add new presets: Define new presets by combining different filter values in the 
 
 **Live Demo**
 
-[(If deployed, add a link here, e.g., GitHub Pages, Netlify, or Vercel.)](https://image-editor321.netlify.app/)
+[(Live URL)](https://image-editor321.netlify.app/)
 
 **Future Enhancements**
 
