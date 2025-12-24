@@ -77,4 +77,4 @@ Author
 
 Your Name – [GitHub Profile](https://github.com/Avisrivastava15)
 
-[(Live URL)](https://image-editor321.netlify.app/)
+check out the live project here - [(Image Editor)](https://image-editor321.netlify.app/)
