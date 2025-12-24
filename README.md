@@ -61,9 +61,7 @@ Add new filters: Extend the filters object in script.js and create new range sli
 
 Add new presets: Define new presets by combining different filter values in the presets array.
 
-**Live Demo**
 
-[(Live URL)](https://image-editor321.netlify.app/)
 
 **Future Enhancements**
 
@@ -78,3 +76,4 @@ Export in different formats (JPEG, WebP).
 Author
 
 Your Name – [GitHub Profile](https://github.com/Avisrivastava15)
+[(Live URL)](https://image-editor321.netlify.app/)
