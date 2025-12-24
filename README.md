@@ -76,4 +76,5 @@ Export in different formats (JPEG, WebP).
 Author
 
 Your Name – [GitHub Profile](https://github.com/Avisrivastava15)
+
 [(Live URL)](https://image-editor321.netlify.app/)
